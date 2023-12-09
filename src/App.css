@@ -1,0 +1,31 @@
+/* App.css */
+
+/* Hide buttons on mobile devices */
+@media (max-width: 767px) {
+    .laptop-buttons {
+      display: none;
+    }
+  }
+  
+  /* Hide buttons on laptops/desktops */
+  @media (min-width: 768px) {
+    .mobile-buttons {
+      display: none;
+    }
+  }
+
+
+    @media (max-width: 768px) {
+    .mobile-remote {
+        position: relative;
+        left: -200px;
+    }
+  }
+
+  @media (min-width: 768px) {
+    .mobile-remote {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+  }
