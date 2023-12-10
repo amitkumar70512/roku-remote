@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/roku-remote/static/css/main.02de9472.css",
-    "main.js": "/roku-remote/static/js/main.e86d940f.js",
+    "main.js": "/roku-remote/static/js/main.34f64af1.js",
     "static/js/787.91b2e405.chunk.js": "/roku-remote/static/js/787.91b2e405.chunk.js",
     "static/media/roku-remote-background.png": "/roku-remote/static/media/roku-remote-background.1ef6631302ef021cbc2f.png",
     "static/media/toggleCase.png": "/roku-remote/static/media/toggleCase.cf70d3cf587f0ac1df98.png",
     "index.html": "/roku-remote/index.html",
     "main.02de9472.css.map": "/roku-remote/static/css/main.02de9472.css.map",
-    "main.e86d940f.js.map": "/roku-remote/static/js/main.e86d940f.js.map",
+    "main.34f64af1.js.map": "/roku-remote/static/js/main.34f64af1.js.map",
     "787.91b2e405.chunk.js.map": "/roku-remote/static/js/787.91b2e405.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02de9472.css",
-    "static/js/main.e86d940f.js"
+    "static/js/main.34f64af1.js"
   ]
 }
